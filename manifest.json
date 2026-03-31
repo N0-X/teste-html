@@ -1,14 +1,14 @@
 {
-    "name": "TesteLoco",
-    "version": "0.1",
+    "name": "Olthin Tracker",
+    "version": "2.6.9",
     "manifest_version": 1,
     "author": "Comedor de Batatas",
-    "icon": "/logo.png",
-    "description": "Tortura",
+    "icon": "./logo.svg",
+    "description": "Feito para o RPG Olthin!",
     "action": {
-        "title": "TesteLoco",
-        "icon": "/icon.svg",
-        "popover": "/",
+        "title": "Olthin Tracker",
+        "icon": "./icon.svg",
+        "popover": "./",
         "height": 600,
         "width": 400
     }
