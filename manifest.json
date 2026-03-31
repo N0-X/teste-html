@@ -1,13 +1,15 @@
 {
-    "name": "Meu App",
-    "version": "1.0.0",
+    "name": "TesteLoco",
+    "version": "0.1",
     "manifest_version": 1,
     "author": "Comedor de Batatas",
-    "icon": "./logo.svg",
-    "description": "Feito para o RPG Olthin!",
+    "icon": "/logo.png",
+    "description": "Tortura",
     "action": {
-        "title": "Abrir",
-        "icon": "./icon.svg",
-        "popover": "./index.html"
+        "title": "TesteLoco",
+        "icon": "/icon.svg",
+        "popover": "/",
+        "height": 600,
+        "width": 400
     }
 }
