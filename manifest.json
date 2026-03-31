@@ -3,11 +3,11 @@
     "version": "1.0.0",
     "manifest_version": 1,
     "author": "Comedor de Batatas",
-    "icon": "/logo.svg",
+    "icon": "/teste-html/logo.svg",
     "description": "Feito para o RPG Olthin!",
     "action": {
         "title": "Abrir",
-        "icon": "/icon.svg",
-        "popover": "/index.html"
+        "icon": "/teste-html/icon.svg",
+        "popover": "/teste-html/index.html"
     }
 }
